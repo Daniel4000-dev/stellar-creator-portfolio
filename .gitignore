@@ -25,5 +25,12 @@ target/
 dist/
 .next/
 
+# Test results
+results/
+
 # TypeScript
 *.tsbuildinfo
+
+#Agents
+GEMINI.md
+config.bat
